@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/instaweather/static/css/main.6721f83b.chunk.css",
+    "main.js": "/instaweather/static/js/main.dd22e2d7.chunk.js",
+    "main.js.map": "/instaweather/static/js/main.dd22e2d7.chunk.js.map",
+    "runtime-main.js": "/instaweather/static/js/runtime-main.a831d4dd.js",
+    "runtime-main.js.map": "/instaweather/static/js/runtime-main.a831d4dd.js.map",
+    "static/css/2.dc243e5f.chunk.css": "/instaweather/static/css/2.dc243e5f.chunk.css",
+    "static/js/2.4c49f551.chunk.js": "/instaweather/static/js/2.4c49f551.chunk.js",
+    "static/js/2.4c49f551.chunk.js.map": "/instaweather/static/js/2.4c49f551.chunk.js.map",
+    "static/js/3.684ee70e.chunk.js": "/instaweather/static/js/3.684ee70e.chunk.js",
+    "static/js/3.684ee70e.chunk.js.map": "/instaweather/static/js/3.684ee70e.chunk.js.map",
+    "index.html": "/instaweather/index.html",
+    "static/css/2.dc243e5f.chunk.css.map": "/instaweather/static/css/2.dc243e5f.chunk.css.map",
+    "static/css/main.6721f83b.chunk.css.map": "/instaweather/static/css/main.6721f83b.chunk.css.map",
+    "static/js/2.4c49f551.chunk.js.LICENSE.txt": "/instaweather/static/js/2.4c49f551.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/instaweather/static/media/icomoon.d36a61ed.ttf",
+    "static/media/hauts.358a95f2.png": "/instaweather/static/media/hauts.358a95f2.png",
+    "static/media/pescaito.1509b1eb.png": "/instaweather/static/media/pescaito.1509b1eb.png",
+    "static/media/sousLaMer.628844e1.png": "/instaweather/static/media/sousLaMer.628844e1.png",
+    "static/media/vespertine.0bf77429.png": "/instaweather/static/media/vespertine.0bf77429.png",
+    "static/media/vinum.967ba872.png": "/instaweather/static/media/vinum.967ba872.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a831d4dd.js",
+    "static/css/2.dc243e5f.chunk.css",
+    "static/js/2.4c49f551.chunk.js",
+    "static/css/main.6721f83b.chunk.css",
+    "static/js/main.dd22e2d7.chunk.js"
+  ]
+}
